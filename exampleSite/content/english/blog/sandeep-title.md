@@ -1,5 +1,5 @@
 +++
-author = "sandeep"
+author = "Sandeep Reddy"
 date = 2022-08-27T18:30:00Z
 description = "kubernetes"
 image = "/images/k8s-1.jpg"
