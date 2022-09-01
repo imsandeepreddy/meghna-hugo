@@ -1,6 +1,6 @@
 ---
 title: Sandeep Reddy
-image: ''
+image: "/images/img20200713183125.jpg"
 email: sandeepreddym03@gmail.com
 social:
 - icon: ti-facebook
