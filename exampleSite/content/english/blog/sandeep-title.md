@@ -4,7 +4,7 @@ date = 2022-08-27T18:30:00Z
 description = "kubernetes"
 image = "/images/k8s-1.jpg"
 image_webp = "/images/k8s.jpg"
-title = "Kubernetes 3 node setup"
+title = "Kubernetes-3-node-setup"
 
 +++
 Kubernetes 3 node setup
