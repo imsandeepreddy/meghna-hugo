@@ -5,6 +5,7 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Sandeep Reddy
 description: This is meta description
+draft: true
 
 ---
 DevOps CICD pipeline with GitOps, docker, helm, argocd, kubernetes
