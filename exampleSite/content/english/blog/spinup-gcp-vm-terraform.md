@@ -5,6 +5,7 @@ image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: Sandeep Reddy
 description: This is meta description
+draft: true
 
 ---
 Spinup GCP VM with Terraform(draft)
