@@ -1,6 +1,6 @@
 ---
 title: DevOps CICD pipeline with GitOps, Docker, Helm, ArgoCD, Kubernetes
-date: 2022-09-03T06:52:36+00:00
+date: 2022-09-03T06:52:36.000+00:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Sandeep Reddy
