@@ -2,7 +2,6 @@
 author = "Sandeep Reddy"
 date = 2022-09-10T18:30:00Z
 description = "DevOps"
-draft = true
 image = "/images/devops.jpg"
 image_webp = "/images/devops.jpg"
 title = "What is DevOps?"
