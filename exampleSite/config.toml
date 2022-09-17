@@ -17,89 +17,10 @@ name = "about"
 url = "https://github.com/imsandeepreddy"
 weight = 1
 [[Languages.en.menu.main]]
-#name = "services"
-#url = "#services"
-#weight = 2
-#[[Languages.en.menu.main]]
-#name = "portfolio"
-#url = "#portfolio"
-#weight = 3
-#[[Languages.en.menu.main]]
-#name = "team"
-#url = "#team"
-#weight = 4
-#[[Languages.en.menu.main]]
-#name = "pricing"
-#url = "#pricing"
-#weight = 5
-#[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-#name = "contact"
-#url = "#contact"
-#weight = 7
-#[[Languages.en.menu.main]]
-#hasChildren = true
-#name = "Dropdown"
-#weight = 7
-#[[Languages.en.menu.main]]
-#name = "Dropdown 1"
-#parent = "Dropdown"
-#url = "#"
-#weight = 1
-#[[Languages.en.menu.main]]
-#name = "Dropdown 2"
-#parent = "Dropdown"
-#url = "#"
-#weight = 2
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#url = "https://themefisher.com/"
-#weight = 8
-#[Languages.fr]
-#contentDir = "content/french"
-#copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-#home = "Accueil"
-#languageCode = "fr-fr"
-#languageName = "Fr"
-#weight = 2
-#[[Languages.fr.menu.main]]
-#name = "sur"
-#url = "#about"
-#weight = 1
-#[[Languages.fr.menu.main]]
-#name = "un service"
-#url = "#services"
-#weight = 2
-#[[Languages.fr.menu.main]]
-#name = "portefeuille"
-#url = "#portfolio"
-#weight = 3
-#[[Languages.fr.menu.main]]
-#name = "équipe"
-#url = "#team"
-#weight = 4
-#[[Languages.fr.menu.main]]
-#name = "tarification"
-#url = "#pricing"
-#weight = 5
-#[[Languages.fr.menu.main]]
-#name = "blog"
-#url = "#blog"
-#weight = 6
-#[[Languages.fr.menu.main]]
-#name = "contact"
-#url = "#contact"
-#weight = 7
-#[[Languages.fr.menu.main]]
-#name = "themefisher"
-#url = "https://themefisher.com/"
-#weight = 8
-#[params]
-#author = "Themefisher"
-#description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -137,23 +58,11 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
-#[[params.social]]
-#icon = "ti-facebook"
-#link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/urssanny"
-#[[params.social]]
-#icon = "ti-youtube"
-#link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/sandeep-reddy-00a8b839"
-#[[params.social]]
-#icon = "ti-dribbble"
-#link = "#"
-#[[params.social]]
-#icon = "ti-pinterest"
-#link = "#"
